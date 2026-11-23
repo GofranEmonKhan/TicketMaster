@@ -224,4 +224,4 @@ Potential enhancements include:
 
 ---
 
-*Developed as an educational software engineering project.*
+*Developed as part of the Web Programming Lab course, demonstrating practical full-stack web development skills.*
